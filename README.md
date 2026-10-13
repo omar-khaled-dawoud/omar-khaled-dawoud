@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1018,100:C9A36A&height=170&section=header&text=Omar%20Khaled%20Dawoud&fontSize=40&fontColor=F1E9DB&fontAlignY=38&desc=Machine%20Learning%20%26%20Optimization&descSize=16&descAlignY=60&descColor=E9D9B8" alt="Omar Khaled Dawoud" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C9A36A&center=true&vCenter=true&width=620&lines=Teaching+Assistant+%40+Tanta+University;M.Sc.+Student+in+ML+%26+Optimization;Metaheuristics+%E2%80%A2+Feature+Selection+%E2%80%A2+Explainable+AI;Building+toward+Data+Engineering+for+AI" alt="Typing intro" />
+  <img src="assets/header.svg" alt="Omar Khaled Dawoud, Machine Learning and Optimization" width="100%" />
 </p>
 
 <p align="center">
@@ -54,8 +50,4 @@ Benchmarked 14 machine learning models for smart grid stability prediction, comp
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A36A,100:0D1018&height=110&section=footer" alt="" />
 </p>
